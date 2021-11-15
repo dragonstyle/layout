@@ -6,7 +6,6 @@ format:
     html: default  
     pdf:
       keep-tex: true
-
 reference-location: margin
 bibliography: skeleton.bib
 ---
